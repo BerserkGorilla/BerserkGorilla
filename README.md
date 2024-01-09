@@ -10,7 +10,7 @@ My name is Fernando I am a aspiring data scientist. Apart from that, I am underg
 
 - More about me: I love games in general, specially card games and strategy games. I also really love History, Sports and, obviously, physics.
 - A little secret: At the time of creating this account i was not thinking about working with programming, so it was named in honour of one of my
-favourite Yu-Gi-Oh! cards.
+favourites Yu-Gi-Oh! card.
 
 <details>
   <summary>:zap: Most Used Languages</summary>
