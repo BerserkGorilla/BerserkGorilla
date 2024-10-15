@@ -15,7 +15,7 @@ favourite Yu-Gi-Oh! card.
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Cecilia's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerserkGorilla" />
+<img align="left" alt="Fernando's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerserkGorilla" />
 
 </details>
 <details>
