@@ -12,18 +12,6 @@ My name is Fernando I am a crystallographer. Apart from that, I am undergoing a 
 - A little secret: At the time of creating this account i was not thinking about working with programming, so it was named in honour of one of my
 favourite Yu-Gi-Oh! card.
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Fernando's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerserkGorilla" />
-
-</details>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Fernando's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BerserkGorilla&show_icons=true&hide_border=true" />
-
-</details>
 
 [LinkedIn]:https://www.linkedin.com/in/fernando-jardim-397080234/
 #### Languages and Tools
