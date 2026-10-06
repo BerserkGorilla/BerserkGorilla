@@ -1,6 +1,6 @@
 # Greetings
 
-My name is Fernando I am a crystallographer. Apart from that, I am undergoing a master's degree in physics at UFMG. I also majored in physics at the same university.  
+My name is Fernando I am a crystallographer. Apart from that, I am undergoing a Phd degree in chemsitry at the University of Regensburg. I majored and did my masters in physics at the Federal University of Minas Gerais.  
 
 -  I’m currently learning about data science, focused on machine learning.
 
